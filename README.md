@@ -34,27 +34,6 @@
 
 ---
 
-## 📫 How to reach me
-
-- 📧 Email: **im.hrutik2025@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
-- 🌐 Portfolio: *(Coming Soon)*
-
----
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/hrutikchaudhari" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://github.com/Imhrutik05" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-  </a>
-</p>
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="left">
@@ -77,17 +56,29 @@
 
 ---
 
----
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" alt="Top Languages" />
   <img width="56%" src="https://streak-stats.demolab.com/?user=Imhrutik05&theme=radical" alt="GitHub Streak" />
 </p>
 
+## 📫 How to reach me
+
+- 📧 Email: **im.hrutik2025@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
+- 🌐 Portfolio: *(Coming Soon)*
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/hrutikchaudhari" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://github.com/Imhrutik05" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+  </a>
+</p>
 
 ## 🔗 Profiles
 
