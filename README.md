@@ -1,7 +1,10 @@
-<h1 align="center">This is Hrutik Chaudhari</h1>
+
+
+<h1 align="center">🚀 Hrutik Chaudhari</h1>
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Java+Backend+Developer;Data+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Full+Stack+Developer;LLM+App+Builder+%7C+Spring+Boot+Specialist" alt="Typing SVG" />
 </h2>
+
 
 <!-- ✨ Top Skills Section with animated shimmer (static content with pulse) -->
 <p align="center">
