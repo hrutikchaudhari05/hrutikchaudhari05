@@ -77,9 +77,9 @@
 
 ## How to reach me
 
-- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **im.hrutik2025@gmail.com**  
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
-- ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-cccccc?style=flat&logo=firefox&logoColor=black)
+- !(https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **im.hrutik2025@gmail.com**  
+- !(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
+- !(https://img.shields.io/badge/Portfolio-Coming%20Soon-cccccc?style=flat&logo=firefox&logoColor=black)
 
 ---
 
@@ -96,9 +96,8 @@
 
 ## Profiles
 
-- ![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/Imhrutik05](https://github.com/Imhrutik05)  
-- ![LeetCode Logo](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) [leetcode.com/u/hrutik__05](https://leetcode.com/u/hrutik__05/)
+- !(https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/Imhrutik05](https://github.com/Imhrutik05)  
+- !(https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) [leetcode.com/u/hrutik__05](https://leetcode.com/u/hrutik__05/)
 
----
 
 > ⚡ Always learning. Always building. Always improving.
