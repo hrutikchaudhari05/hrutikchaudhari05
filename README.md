@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20Gemini%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20BERT-orange?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Firebase%20%7C%20MySQL%20%7C%20SQLite-green?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/DevTools-Docker%20%7C%20Git%20%7C%20Postman%20%7C%20VSCode%20%7C%20Agile%20%7C%20Linux-critical?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+
 
 ---
 
@@ -78,6 +76,19 @@
 </p>
 
 ---
+
+---
+
+## 📊 GitHub Contributions & Languages
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Imhrutik05&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
+
 
 ## 🔗 Profiles
 
