@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hrutik Chaudhari</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+Engineer;Full+Stack+Developer;Java+Backend+Developer;Data+Engineer" alt="Typing SVG" />
-</h3>
+<h1 align="center">This is Hrutik Chaudhari</h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Java+Backend+Developer;Data+Engineer" alt="Typing SVG" />
+</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="700" alt="Coding Gif">
+  <img src="https://i.pinimg.com/originals/8b/30/ef/8b30ef5405f6db70ad1c3305ed0969b1.gif" width="700" alt="Coding Animation">
 </p>
 
 ---
@@ -75,6 +75,13 @@
 ## 🔗 Profiles
 
 - 👨‍💻 GitHub: [github.com/Imhrutik05](https://github.com/Imhrutik05)  
+- 🌐 LeetCode: [leetcode.com/hrutikchaudhari](#) *(if available)*  
+- 📘 Medium: [medium.com/@hrutikchaudhari](#) *(optional)*  
+
+---
+
+> ⚡ Always learning. Always building. Always improving.
+
 - 🌐 LeetCode: [leetcode.com/hrutikchaudhari](#) *(Add if you have one)*  
 - 📘 Medium: [medium.com/@hrutikchaudhari](#) *(Optional)*  
 
