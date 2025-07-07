@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hrutik Chaudhari</h1>
 <h3 align="center">AI & Full Stack Engineer</h3>
 
-<img alt="coding" width="800" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RhOHMzdXFrdngxdWRxMHZhNjZvaXBicjBtdGlvaXl4NzJhZm53YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img alt="coding" width="1000" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RhOHMzdXFrdngxdWRxMHZhNjZvaXBicjBtdGlvaXl4NzJhZm53YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 - 📫 How to reach me *im.hrutik2025@gmail.com*
 
