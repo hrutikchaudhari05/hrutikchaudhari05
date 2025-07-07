@@ -97,12 +97,9 @@
 
 
 ---
-## 📊 GitHub Stats & Activity
+## 🟩 GitHub Contribution Heatmap
 
-<p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Imhrutik05&theme=radical&hide_border=false" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical&hide_border=false" />
-</p>
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imhrutik05&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Hrutik’s GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imhrutik05&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
