@@ -7,9 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&lines=🧩+Backend:+Spring+Boot,+FastAPI,+REST+APIs;🤖+AI+%26+LLMs:+LangChain,+OpenAI,+Gemini,+Whisper,+BERT;🛠️+Tools:+PostgreSQL,+Firebase,+Docker,+Git" alt="Skills Typing SVG" />
 </h4>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8b/30/ef/8b30ef5405f6db70ad1c3305ed0969b1.gif" width="700" alt="Coding Animation">
-</p>
+
 
 ---
 
