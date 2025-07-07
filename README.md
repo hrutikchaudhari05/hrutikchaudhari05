@@ -28,15 +28,10 @@
 🚀 Whether it’s crafting mock interview platforms like MockMate, orchestrating LLM agents in SmartHire, or rewriting backend chaos into clean Spring Boot services — I thrive at the intersection of AI 🤖 and Full Stack Development 🌐.
 
 🛠️ My toolbox includes:
-
+🔧 Spring Boot, FastAPI, React
 🔗 LangChain & OpenAI API
-
 🧠 Gemini, Whisper, BERT
-
-🔧 FastAPI, Spring Boot, React
-
-🐘 PostgreSQL, Firebase
-
+🐘 PostgreSQL, MySQL, Firebase
 🧪 Git, Docker, and the holy trio: Stack Overflow, Postman, and pure persistence
 
 ☕ So grab your coffee, scroll through my GitHub, and explore how this caffeine-powered engineer is building the future — one intelligent feature at a time.
@@ -46,7 +41,7 @@
 ## 📫 How to reach me
 
 - 📧 Email: **im.hrutik2025@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/hrutik-chaudhari-3bb88622a](https://linkedin.com/in/hrutik-chaudhari-3bb88622a)  
+- 💼 LinkedIn: [linkedin.com/in/hrutik-chaudhari-3bb](https://linkedin.com/in/hrutik-chaudhari-3bb88622a)  
 - 🧠 Portfolio (Coming Soon!)
 
 ---
