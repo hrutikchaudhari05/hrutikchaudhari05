@@ -3,19 +3,38 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Java+Backend+Developer;Data+Engineer" alt="Typing SVG" />
 </h2>
 
+<h4 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&lines=🧩+Backend:+Spring+Boot,+FastAPI,+REST+APIs;🤖+AI+%26+LLMs:+LangChain,+OpenAI,+Gemini,+Whisper,+BERT;🛠️+Tools:+PostgreSQL,+Firebase,+Docker,+Git" alt="Skills Typing SVG" />
+</h4>
+
 <p align="center">
   <img src="https://i.pinimg.com/originals/8b/30/ef/8b30ef5405f6db70ad1c3305ed0969b1.gif" width="700" alt="Coding Animation">
 </p>
 
 ---
 
-## 💫 About Me
+☕ About Me – The Caffeine-Coded Truth
+👨‍💻 This is Hrutik Chaudhari — AI Engineer, Full Stack Developer, and part-time debugger of both code and reality.
 
-- 🎓 I'm a recent B.E. graduate in Information Technology  
-- 🔭 Currently building AI-powered full-stack apps  
-- 💬 Ask me about Java, Spring Boot, AI APIs, and system design  
-- 🚀 Passionate about solving real-world problems with code  
-- 🌱 Currently exploring microservices & system design patterns  
+💻 Fueled by Java (both the language and the coffee), I build intelligent systems that turn CSVs into predictions, job descriptions into resumes, and sleepless nights into software breakthroughs. When I’m not training models or deploying APIs, I’m probably convincing my Docker containers to get along 🐳.
+
+😴 Debugging before my first cup of coffee? Risky. But once the ☕ kicks in, even runtime errors start apologizing.
+
+🚀 Whether it’s crafting mock interview platforms like MockMate, orchestrating LLM agents in SmartHire, or rewriting backend chaos into clean Spring Boot services — I thrive at the intersection of AI 🤖 and Full Stack Development 🌐.
+
+🛠️ My toolbox includes:
+
+🔗 LangChain & OpenAI API
+
+🧠 Gemini, Whisper, BERT
+
+🔧 FastAPI, Spring Boot, React
+
+🐘 PostgreSQL, Firebase
+
+🧪 Git, Docker, and the holy trio: Stack Overflow, Postman, and pure persistence
+
+☕ So grab your coffee, scroll through my GitHub, and explore how this caffeine-powered engineer is building the future — one intelligent feature at a time.
 
 ---
 
