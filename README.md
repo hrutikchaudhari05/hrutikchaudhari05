@@ -75,29 +75,28 @@
   <img width="56%" src="https://streak-stats.demolab.com/?user=Imhrutik05&theme=radical" alt="GitHub Streak" />
 </p>
 
-## How to reach me
+## 📫 Contact
 
-- ![](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **im.hrutik2025@gmail.com**  
-- ![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
-- ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-cccccc?style=flat&logo=firefox&logoColor=black)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:im.hrutik2025@gmail.com)
 
 ---
 
-## Connect with me
+## 🌐 Profiles
 
 <p align="left">
   <a href="https://linkedin.com/in/hrutikchaudhari" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/Imhrutik05" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/hrutik__05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </p>
 
-## Profiles
 
-- !(https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/Imhrutik05](https://github.com/Imhrutik05)  
-- !(https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) [leetcode.com/u/hrutik__05](https://leetcode.com/u/hrutik__05/)
-
+---
+[![Hrutik's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imhrutik05&theme=react-dark&hide_border=true)](https://github.com/Imhrutik05)
 
 > ⚡ Always learning. Always building. Always improving.
