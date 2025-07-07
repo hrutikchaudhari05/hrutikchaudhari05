@@ -16,8 +16,9 @@
 </p>
 
 ---
-
+<h3 align="left">
 ☕ About Me – The Caffeine-Coded Truth
+</h3>
 👨‍💻 This is Hrutik Chaudhari — AI Engineer, Full Stack Developer, and part-time debugger of both code and reality.
 
 💻 Fueled by Java (both the language and the coffee), I build intelligent systems that turn CSVs into predictions, job descriptions into resumes, and sleepless nights into software breakthroughs. When I’m not training models or deploying APIs, I’m probably convincing my Docker containers to get along 🐳.
