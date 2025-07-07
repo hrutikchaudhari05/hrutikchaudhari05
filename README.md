@@ -3,11 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Java+Backend+Developer;Data+Engineer" alt="Typing SVG" />
 </h2>
 
-<h4 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7971E&center=true&vCenter=true&multiline=true&width=800&lines=🧩+Backend:+Spring+Boot,+FastAPI,+REST+APIs;🤖+AI+%26+LLMs:+LangChain,+OpenAI,+Gemini,+Whisper,+BERT;🛠️+Tools:+PostgreSQL,+Firebase,+Docker,+Git" alt="Skills Typing SVG" />
-</h4>
-
-
+<!-- ✨ Top Skills Section with animated shimmer (static content with pulse) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-SpringBoot%20|%20FastAPI%20|%20REST%20APIs-blue?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20|%20Gemini%20|%20OpenAI%20|%20Whisper%20|%20BERT-orange?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-PostgreSQL%20|%20Firebase%20|%20Docker%20|%20Git-green?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
