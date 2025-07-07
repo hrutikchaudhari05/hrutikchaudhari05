@@ -84,7 +84,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" alt="Top Languages" />
   <img width="58%" src="https://streak-stats.demolab.com/?user=Imhrutik05&theme=radical" alt="GitHub Streak" />
 </p>
 
