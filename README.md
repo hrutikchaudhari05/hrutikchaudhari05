@@ -1,12 +1,12 @@
 <h1 align="center">Hrutik Chaudhari 💡🛠️💻</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=800&lines=AI+Engineer+%26+Full+Stack+Developer;Java+Backend+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=400&lines=AI+Engineer+%26+Full+Stack+Developer;Java+Backend+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
 </h1>
 
 <!-- ✨ Top Skills Section with low-saturation theme -->
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-SpringBoot%20%7C%20FastAPI%20%7C%20REST%20APIs-6C8EBF?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20Gemini%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20BERT-B8A3E8?style=for-the-badge&logo=openai&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20Gemini%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20BERT-B8A3E8?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Firebase%20%7C%20MySQL%20%7C%20SQLite-A3C9A8?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
