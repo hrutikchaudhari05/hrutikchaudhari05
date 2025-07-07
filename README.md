@@ -13,7 +13,7 @@
 
 ---
 
-## ☕ About Me – The Caffeine-Coded Truth
+## About Me – The Caffeine-Coded Truth ☕
 
 👨‍💻 This is Hrutik Chaudhari — AI Engineer, Full Stack Developer, and part-time debugger of both code and reality.
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -75,15 +75,15 @@
   <img width="56%" src="https://streak-stats.demolab.com/?user=Imhrutik05&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 📫 How to reach me
+## How to reach me
 
-- 📧 Email: **im.hrutik2025@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
-- 🌐 Portfolio: *(Coming Soon)*
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **im.hrutik2025@gmail.com**  
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
+- ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-cccccc?style=flat&logo=firefox&logoColor=black)
 
 ---
 
-## 🌐 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/hrutikchaudhari" target="_blank">
@@ -94,10 +94,10 @@
   </a>
 </p>
 
-## 🔗 Profiles
+## Profiles
 
-- 👨‍💻 GitHub: [github.com/Imhrutik05](https://github.com/Imhrutik05)  
-- 🌐 LeetCode: [leetcode.com/hrutikchaudhari](#) *(add if available)*  
+- ![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) [github.com/Imhrutik05](https://github.com/Imhrutik05)  
+- ![LeetCode Logo](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white) [leetcode.com/u/hrutik__05](https://leetcode.com/u/hrutik__05/)
 
 ---
 
