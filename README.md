@@ -77,9 +77,9 @@
 
 ## How to reach me
 
-- !(https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **im.hrutik2025@gmail.com**  
-- !(https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
-- !(https://img.shields.io/badge/Portfolio-Coming%20Soon-cccccc?style=flat&logo=firefox&logoColor=black)
+- ![](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) **im.hrutik2025@gmail.com**  
+- ![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) [linkedin.com/in/hrutikchaudhari](https://linkedin.com/in/hrutikchaudhari)  
+- ![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-cccccc?style=flat&logo=firefox&logoColor=black)
 
 ---
 
