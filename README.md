@@ -73,6 +73,7 @@
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.vercel.app/?user=Imhrutik05&theme=radical" alt="GitHub Streak" />
+  <img src="https://leetcode-stats.vercel.app/api?username=hrutik__05" alt="LeetCode Stats" />
 </p>
 
 ## 📫 Contact
