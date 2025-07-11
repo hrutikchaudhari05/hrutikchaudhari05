@@ -6,14 +6,9 @@
 
 <!-- ✨ Top Skills Section with low-saturation theme and custom text colors -->
 <p align="center">
-  <!-- Tech Stack -->
-  <img src="https://img.shields.io/badge/Tech%20Stack-FastAPI%20%7C%20Node.js%20%7C%20React%20%7C%20REST%20APIs-6C8EBF?style=for-the-badge&logo=node.js&logoColor=white" />
-
-  <!-- Databases (White text) -->
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Firebase%20%7C%20FAISS%20%7C%20Pinecone-A3C9A8?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=7DA28C&color=7DA28C" />
-
-  <!-- AI & LLMs (Black text) -->
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20Gemini%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20BERT%20%7C%20Prompt%20Engineering%20%7C%20RAG-B8A3E8?style=for-the-    badge&logo=openai&logoColor=white&color=E6E6FA&labelColor=B8A3E8&label=AI%20%26%20LLMs&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-FastAPI%20%7C%20Node.js%20%7C%20React%20%7C%20REST%20APIs-6C8EBF?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Firebase%20%7C%20FAISS%20%7C%20Pinecone-A3C9A8?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20BERT%20%7C%20RAG%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20Gemini-B8A3E8?style=for-the-badge&logo=openai&logoColor=white" />
   
 </p>
 
