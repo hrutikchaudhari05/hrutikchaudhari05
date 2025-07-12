@@ -4,6 +4,9 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%26+Full+Stack+Developer;Java+Backend+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
 </h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=2191D1&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%26+Full+Stack+Developer;Java+Backend+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
+</h1>
 
 <!-- ✨ Top Skills Section with custom layout -->
 <p align="center">
