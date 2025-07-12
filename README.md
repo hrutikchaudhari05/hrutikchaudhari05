@@ -13,22 +13,7 @@
   <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Firebase%20%7C%20FAISS%20%7C%20Pinecone-A3C9A8?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20BERT%20%7C%20RAG%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20Gemini%20%7C%20Prompt%20Engineering-B8A3E8?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
-<p align="center">
-  <!-- Tech Stack (split for color control) -->
-  <img src="https://img.shields.io/badge/FastAPI-Backend-6C8EBF?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=6C8EBF&color=6C8EBF" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-6C8EBF?style=for-the-badge&logo=nodedotjs&logoColor=black&labelColor=6C8EBF&color=6C8EBF" />
-  <img src="https://img.shields.io/badge/React-Frontend-6C8EBF?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-Integration-6C8EBF?style=for-the-badge&logo=apachespark&logoColor=white" />
 
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Firebase%20%7C%20FAISS%20%7C%20Pinecone-A3C9A8?style=for-the-badge&logo=postgresql&logoColor=white" />
-  
-  <!-- AI & LLMs -->
-  <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20BERT%20%7C%20RAG%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20Gemini%20%7C%20Prompt%20Engineering-B8A3E8?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
-
-  
 ---
 
 ## About Me – The Caffeine-Coded Truth ☕
