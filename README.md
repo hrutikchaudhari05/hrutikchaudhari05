@@ -2,7 +2,7 @@
 <h1 align="center">Hrutik Chaudhari 💡🛠️💻</h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%26+Full+Stack+Developer;MERN+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%26+Full+Stack+Developer;MERN+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
 </h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%26+Full+Stack+Developer;MERN+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
@@ -13,12 +13,9 @@
   <!-- Line 1: Tech Stack + Databases -->
   <img src="https://img.shields.io/badge/Tech%20Stack-FastAPI%20%7C%20Node.js%20%7C%20React%20%7C%20REST%20APIs-6C8EBF?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Databases-PostgreSQL%20%7C%20Firebase%20%7C%20FAISS%20%7C%20Pinecone-A3C9A8?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Line 2: AI & LLMs -->
   <img src="https://img.shields.io/badge/AI%20%26%20LLMs-LangChain%20%7C%20BERT%20%7C%20RAG%20%7C%20OpenAI%20%7C%20Whisper%20%7C%20Gemini%20%7C%20Prompt%20Engineering-B8A3E8?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
+
 
   
 ---
