@@ -4,9 +4,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%26+Full+Stack+Developer;MERN+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
 </h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=007ACC&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer+%26+Full+Stack+Developer;MERN+%7C+Data+%26+ML+Pipelines+%7C+AI+with+LLMs" alt="Typing SVG" />
-</h1>
+
 
 <!-- ✨ Top Skills Section with custom layout -->
 <p align="center">
@@ -28,7 +26,7 @@
 
 😴 Debugging before my first cup of coffee? Risky. But once the ☕ kicks in, even runtime errors start apologizing.
 
-🚀 Whether it’s crafting mock interview platforms like **MockMate**, orchestrating LLM agents in **SmartHire**, or rewriting backend chaos into clean Spring Boot services — I thrive at the intersection of **AI 🤖 and Full Stack Development 🌐**.
+🚀 Whether it’s crafting mock interview platforms like **MockMate**, orchestrating LLM agents in **AutoHire**, or rewriting backend chaos into clean Spring Boot services — I thrive at the intersection of **AI 🤖 and Full Stack Development 🌐**.
 
 🛠️ My toolbox includes:
 - 🔧 Node.js, FastAPI, React  
