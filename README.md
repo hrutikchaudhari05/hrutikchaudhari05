@@ -20,7 +20,7 @@
 
 👨‍💻 This is Hrutik Chaudhari — AI Engineer, Full Stack Developer, and part-time debugger of both code and reality.
 
-💻 Fueled by Java (both the language and the coffee) — and occasionally JavaScript shots — I build intelligent systems that turn CSVs into predictions, job descriptions into resumes, and sleepless nights into software breakthroughs. When I’m not training models or deploying APIs, I’m probably sorting out data structures in Java or convincing my Docker containers to get along 🐳..
+💻 Fueled by Java (both the language and the coffee) — and occasionally JavaScript shots — I build intelligent systems that turn CSVs into predictions, job descriptions into resumes, and sleepless nights into software breakthroughs. Playing with data is like When I’m not training models or deploying APIs, I’m probably sorting out data structures in Java or convincing my Docker containers to get along 🐳.
 
 😴 Debugging before my first cup of coffee? Risky. But once the ☕ kicks in, even runtime errors start apologizing.
 
