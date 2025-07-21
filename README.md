@@ -1,4 +1,5 @@
-<!-- I inprover the readme.md file of my github profile after a lot of time -->
+<!-- I inproved the readme.md file of my github profile after a lot of time -->
+
 <h1 align="center">Hrutik Chaudhari 💡🛠️💻</h1>
 
 <h1 align="center">
