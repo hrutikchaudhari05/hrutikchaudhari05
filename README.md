@@ -84,14 +84,14 @@
 
 <p align="center">
   <!-- GitHub Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" />
    
 </p>
 
 <p align="center">
   <!-- LeetCode Stats via DenverCoder1 (More Stable) -->
   <img src="https://leetcard.jacoblin.cool/hrutik__05?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" />
-</p?
+</p>
 
 ## 📫 Contact
 
