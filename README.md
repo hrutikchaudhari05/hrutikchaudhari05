@@ -84,11 +84,8 @@
 
 <p align="center">
   <!-- GitHub Top Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" />
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imhrutik05&theme=radical" alt="GitHub Streak" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" />
+   
 </p>
 
 <p align="center">
