@@ -89,10 +89,12 @@
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imhrutik05&theme=radical" alt="GitHub Streak" />
   
-  <!-- LeetCode Stats via DenverCoder1 (More Stable) -->
-  <img src="https://leetcard.jacoblin.cool/hrutik__05?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" />
 </p>
 
+<p align="center">
+  <!-- LeetCode Stats via DenverCoder1 (More Stable) -->
+  <img src="https://leetcard.jacoblin.cool/hrutik__05?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" />
+</p?
 
 ## 📫 Contact
 
