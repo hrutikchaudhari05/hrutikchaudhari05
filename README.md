@@ -83,10 +83,16 @@
 ---
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" />
+  <!-- GitHub Top Languages -->
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" />
+  
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imhrutik05&theme=radical" alt="GitHub Streak" />
-  <img src="https://leetcode-stats.vercel.app/api?username=hrutik__05" alt="LeetCode Stats" />
+  
+  <!-- LeetCode Stats via DenverCoder1 (More Stable) -->
+  <img src="https://leetcard.jacoblin.cool/hrutik__05?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" />
 </p>
+
 
 ## 📫 Contact
 
