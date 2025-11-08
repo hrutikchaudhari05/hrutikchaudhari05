@@ -84,18 +84,18 @@
 
 <p align="center">
   <!-- GitHub Top Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imhrutik05&layout=compact&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrutikchaudhari05&layout=compact&theme=radical" />
    
 </p>
 
 <p align="center">
   <!-- LeetCode Stats via DenverCoder1 (More Stable) -->
-  <img src="https://leetcard.jacoblin.cool/hrutik__05?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/hrutikchaudhari05?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" />
 </p>
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:im.hrutik2025@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hrutikchaudhari05@gmail.com)
 
 ---
 
@@ -105,10 +105,10 @@
   <a href="https://linkedin.com/in/hrutikchaudhari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Imhrutik05" target="_blank">
+  <a href="https://github.com/hrutikchaudhari05" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="https://leetcode.com/u/hrutik__05/" target="_blank">
+  <a href="https://leetcode.com/u/hrutikchaudhari05/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
   </a>
 </p>
