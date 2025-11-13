@@ -19,13 +19,9 @@
 
 ## About Me – The Caffeine-Coded Truth ☕
 
-👨‍💻 This is Hrutik Chaudhari — AI Engineer, Full Stack Developer, and part-time debugger of both code and reality.
-
-💻 Fueled by Java (both the language and the coffee) — and occasionally JavaScript shots — I build intelligent systems that turn CSVs into predictions, job descriptions into resumes, and sleepless nights into software breakthroughs. Playing with data is the ultimate purpose of my life, and that allows me to be an Undercover AI Agent for generating insights from that data. When I’m not training models or deploying APIs, I’m probably sorting out data structures in Java or convincing my Docker containers to get along 🐳.
+👨‍💻 This is Hrutik Chaudhari — AI Engineer, Full Stack Developer, and part-time debugger of both code and reality
 
 😴 Debugging before my first cup of coffee? Risky. But once the ☕ kicks in, even runtime errors start apologizing.
-
-🚀 Whether it’s crafting mock interview platforms like **MockMate**, orchestrating LLM agents in **AutoHire**, or rewriting backend chaos into clean Node.js services — I thrive at the intersection of **AI 🤖 and Full Stack Development 🌐**.
 
 🛠️ My toolbox includes:
 - 🔧 Node.js, FastAPI, React  
